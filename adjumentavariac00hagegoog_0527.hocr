@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./adjumentavariac00hagegoog_0527.png"; bbox 0 0 2864 5340; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 529 2031 1217 2415">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 531 2031 1208 2120">
+     <span class='ocr_line' id='line_1_1' title="bbox 531 2031 1208 2120; baseline 0 -22"><span class='ocrx_word' id='word_1_1' title='bbox 531 2031 646 2099; x_wconf 56' lang='lat'><strong>0674</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 710 2031 881 2120; x_wconf 67' lang='lat' dir='ltr'>flager,</span> <span class='ocrx_word' id='word_1_3' title='bbox 918 2031 1087 2101; x_wconf 54' lang='lat' dir='ltr'><strong>n.H.a.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1160 2040 1208 2098; x_wconf 60' lang='lat' dir='ltr'><strong>„e</strong></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 529 2131 1217 2214">
+     <span class='ocr_line' id='line_1_2' title="bbox 529 2131 1217 2214; baseline 0.003 -18"><span class='ocrx_word' id='word_1_5' title='bbox 529 2135 616 2197; x_wconf 68' lang='lat' dir='ltr'><strong>fl14</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 771 2131 1034 2214; x_wconf 55' lang='lat' dir='ltr'><strong>Aojumenta</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1074 2132 1217 2200; x_wconf 69' lang='lat' dir='ltr'>varia</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 532 2235 1119 2415">
+     <span class='ocr_line' id='line_1_3' title="bbox 532 2235 1006 2300; baseline 0.011 -4"><span class='ocrx_word' id='word_1_8' title='bbox 532 2245 586 2297; x_wconf 62' lang='lat' dir='ltr'><strong>Le·</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 603 2235 647 2297; x_wconf 70' lang='grc' dir='ltr'><strong>(ὅ</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 713 2245 912 2300; x_wconf 58' lang='grc' dir='ltr'><strong>Οὲὶθῑῑὼὶω</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 952 2239 1006 2300; x_wconf 72' lang='lat' dir='ltr'><strong>et</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 712 2334 1119 2415; baseline 0.012 -18"><span class='ocrx_word' id='word_1_12' title='bbox 712 2334 1119 2415; x_wconf 57' lang='lat' dir='ltr'><strong>pnarmaceutiea.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1172 2445 1231 2476">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1172 2445 1231 2476">
+     <span class='ocr_line' id='line_1_5' title="bbox 1172 2445 1231 2476; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 1172 2445 1231 2476; x_wconf 52' lang='lat' dir='ltr'><strong>imi:</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1436 5340">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1436 5340">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1436 5340; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1436 5340; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
